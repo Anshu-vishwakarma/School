@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/School/static/css/main.165d8b3c.chunk.css",
+    "main.js": "/School/static/js/main.473722b5.chunk.js",
+    "main.js.map": "/School/static/js/main.473722b5.chunk.js.map",
+    "runtime-main.js": "/School/static/js/runtime-main.238d3c8e.js",
+    "runtime-main.js.map": "/School/static/js/runtime-main.238d3c8e.js.map",
+    "static/css/2.c1256375.chunk.css": "/School/static/css/2.c1256375.chunk.css",
+    "static/js/2.a6d8d425.chunk.js": "/School/static/js/2.a6d8d425.chunk.js",
+    "static/js/2.a6d8d425.chunk.js.map": "/School/static/js/2.a6d8d425.chunk.js.map",
+    "static/js/3.acf6f365.chunk.js": "/School/static/js/3.acf6f365.chunk.js",
+    "static/js/3.acf6f365.chunk.js.map": "/School/static/js/3.acf6f365.chunk.js.map",
+    "index.html": "/School/index.html",
+    "static/css/2.c1256375.chunk.css.map": "/School/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.165d8b3c.chunk.css.map": "/School/static/css/main.165d8b3c.chunk.css.map",
+    "static/js/2.a6d8d425.chunk.js.LICENSE.txt": "/School/static/js/2.a6d8d425.chunk.js.LICENSE.txt",
+    "static/media/ad_upper.bee269e1.jpg": "/School/static/media/ad_upper.bee269e1.jpg",
+    "static/media/director.3e23e4cd.jpg": "/School/static/media/director.3e23e4cd.jpg",
+    "static/media/ff.5ae5b89f.png": "/School/static/media/ff.5ae5b89f.png",
+    "static/media/genius.6540b63e.gif": "/School/static/media/genius.6540b63e.gif",
+    "static/media/gpic.e180d08e.jpg": "/School/static/media/gpic.e180d08e.jpg",
+    "static/media/logo.c2532abe.png": "/School/static/media/logo.c2532abe.png",
+    "static/media/pdf.f6c636cd.png": "/School/static/media/pdf.f6c636cd.png",
+    "static/media/pic.530e636d.jpg": "/School/static/media/pic.530e636d.jpg",
+    "static/media/pic2.1f84a226.jpg": "/School/static/media/pic2.1f84a226.jpg",
+    "static/media/pic3.81bca18f.jpg": "/School/static/media/pic3.81bca18f.jpg",
+    "static/media/principle.ef602df5.png": "/School/static/media/principle.ef602df5.png",
+    "static/media/skmishra.67ab5986.jpg": "/School/static/media/skmishra.67ab5986.jpg",
+    "static/media/team1.dc2bf86e.jpg": "/School/static/media/team1.dc2bf86e.jpg",
+    "static/media/team2.c8f00895.jpg": "/School/static/media/team2.c8f00895.jpg",
+    "static/media/team3.a57ea255.jpg": "/School/static/media/team3.a57ea255.jpg",
+    "static/media/team4.54355915.jpg": "/School/static/media/team4.54355915.jpg",
+    "static/media/team5.0e530e7b.jpg": "/School/static/media/team5.0e530e7b.jpg",
+    "static/media/team6.c358f809.jpg": "/School/static/media/team6.c358f809.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.238d3c8e.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.a6d8d425.chunk.js",
+    "static/css/main.165d8b3c.chunk.css",
+    "static/js/main.473722b5.chunk.js"
+  ]
+}

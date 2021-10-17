@@ -11,7 +11,7 @@ function Manu() {
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse style={{marginLeft:"240px"}}>
     <Nav className="me-auto">
-      <Nav.Link> <Link to="/" > Home</Link></Nav.Link>
+      <Nav.Link> <Link to="/School" > Home</Link></Nav.Link>
 
     
       <NavDropdown title="Dropdown" id="collasible-nav-dropdown">
